@@ -45,6 +45,12 @@ Sou um desenvolvedor **Full Stack**, com especialização em **NestJS**, **Next.
 
 ---
 
+<!-- README-STATS -->
+
+<!-- README-STATS -->
+
+---
+
 ## 🐍 Minhas Contribuições
 
 <picture>
