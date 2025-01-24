@@ -20,14 +20,14 @@ Sou um desenvolvedor **Full Stack**, com ênfase em **NestJS**, **Next.js** e **
 ## 🛠️ Tecnologias que utilizo
 
 ### **Principais Tecnologias**
-<p align="center">
+<p align="start">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=nestjs,nextjs,typescript&theme=dark" />
   </a>
 </p>
 
 ### **Também trabalho com**
-<p align="center">
+<p align="start">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=javascript,react,nodejs,postgres,mysql,docker,git,linux&theme=dark" />
   </a>
@@ -37,7 +37,7 @@ Sou um desenvolvedor **Full Stack**, com ênfase em **NestJS**, **Next.js** e **
 
 ## 📫 Entre em contato
 
-<p align="center">
+<p align="start">
   <a href="mailto:gui_cardilho@hotmail.com">
     <img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
