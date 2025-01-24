@@ -6,14 +6,16 @@ Sou um desenvolvedor **Full Stack**, com ênfase em **NestJS**, **Next.js** e **
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 📊 Minhas Estatísticas
 
-<div align="center">
+<p align="center">
   <a href="https://github.com/GuiCardilho">
-    <img height="165em" src="https://github-readme-stats.vercel.app/api?username=GuiCardilho&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
-    <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuiCardilho&layout=compact&langs_count=7&theme=great-gatsby"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GuiCardilho&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true" />
   </a>
-</div>
+  <a href="https://github.com/GuiCardilho">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuiCardilho&layout=compact&langs_count=7&theme=great-gatsby" />
+  </a>
+</p>
 
 ---
 
