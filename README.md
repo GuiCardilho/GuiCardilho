@@ -57,3 +57,5 @@ Sou um desenvolvedor **Full Stack**, com especialização em **NestJS**, **Next.
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/guicardilho/guicardilho/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/guicardilho/guicardilho/output/github-snake.svg" />
 </picture>
+
+
