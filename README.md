@@ -8,9 +8,17 @@ Sou um desenvolvedor **Full Stack**, com especialização em **NestJS**, **Next.
 
 ## 📊 Minhas Estatísticas
 
-| Estatísticas do GitHub | Linguagens Mais Usadas |
-|------------------------|------------------------|
-| <img src="https://github-readme-stats.vercel.app/api?username=guicardilho&show_icons=true&theme=dark" width="400"/> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guicardilho&layout=compact&theme=dark" width="335"/> |
+| Linguagens Mais Usadas |
+|------------------------|
+| <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guicardilho&layout=compact&theme=dark" width="335"/> |
+
+---
+
+## Estatísticas Detalhadas
+
+<!-- README-STATS:START -->
+
+<!-- README-STATS:END -->
 
 ---
 
@@ -45,43 +53,6 @@ Sou um desenvolvedor **Full Stack**, com especialização em **NestJS**, **Next.
 
 ---
 
-<!-- README-STATS:START -->
-
-```
-🕰️ I get my jam on during the evening!
-
-🌞 Morning  	8      commits	███░░░░░░░░░░░░░░░░░░░░░░░░░░░	4.52%
-🌆 Daytime  	41     commits	█████████████████░░░░░░░░░░░░░	23.16%
-🌃 Evening  	72     commits	██████████████████████████████	40.68%
-🌙 Night    	56     commits	███████████████████████░░░░░░░	31.64%
-```
-
-```
-📅 I'm most productive on Saturdays!
-
-Monday      	9      commits	████░░░░░░░░░░░░░░░░░░░░░░░░░░	5.08%
-Tuesday     	23     commits	███████████░░░░░░░░░░░░░░░░░░░	12.99%
-Wednesday   	17     commits	████████░░░░░░░░░░░░░░░░░░░░░░	9.60%
-Thursday    	33     commits	████████████████░░░░░░░░░░░░░░	18.64%
-Friday      	7      commits	███░░░░░░░░░░░░░░░░░░░░░░░░░░░	3.95%
-Saturday    	61     commits	██████████████████████████████	34.46%
-Sunday      	27     commits	█████████████░░░░░░░░░░░░░░░░░	15.25%
-```
-
-```
-🧪 TypeScript for the win!
-
-TypeScript  	5      repos	██████████████████████████████	33.33%
-JavaScript  	3      repos	██████████████████░░░░░░░░░░░░	20.00%
-CSS         	2      repos	████████████░░░░░░░░░░░░░░░░░░	13.33%
-HTML        	2      repos	████████████░░░░░░░░░░░░░░░░░░	13.33%
-Procfile    	1      repos	██████░░░░░░░░░░░░░░░░░░░░░░░░	6.67%
-```
-
-<!-- README-STATS:END -->
-
----
-
 ## 🐍 Minhas Contribuições
 
 <picture>
@@ -89,5 +60,3 @@ Procfile    	1      repos	██████░░░░░░░░░░░░
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/guicardilho/guicardilho/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/guicardilho/guicardilho/output/github-snake.svg" />
 </picture>
-
-
