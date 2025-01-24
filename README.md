@@ -8,12 +8,9 @@ Sou um desenvolvedor **Full Stack**, com especialização em **NestJS**, **Next.
 
 ## 📊 Minhas Estatísticas
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/seu-usuario/seu-usuario/output/github-stats.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/seu-usuario/seu-usuario/output/github-stats.svg" />
-  <img alt="github-stats" src="https://raw.githubusercontent.com/seu-usuario/seu-usuario/output/github-stats.svg" />
-</picture>
+![Estatísticas do GitHub de Guilherme Cardilho](https://github-readme-stats.vercel.app/api?username=guicardilho&show_icons=true&theme=dark)
 
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=guicardilho&layout=compact&theme=dark)
 
 ---
 
@@ -55,5 +52,3 @@ Sou um desenvolvedor **Full Stack**, com especialização em **NestJS**, **Next.
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/guicardilho/guicardilho/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/guicardilho/guicardilho/output/github-snake.svg" />
 </picture>
-
-
