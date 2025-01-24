@@ -1,8 +1,8 @@
 # 👋 Oi, eu sou Guilherme Cardilho!
 
-### Desenvolvedor Full Stack, focado em Backend com NestJS 🚀
+### Desenvolvedor Full Stack com foco em Backend 🚀
 
-Sou formado em **Análise e Desenvolvimento de Sistemas** e atualmente trabalho na **FastSoft Brasil**, contribuindo para soluções de alto desempenho com tecnologias modernas. Meu foco principal está no **desenvolvimento backend com NestJS**, mas também tenho experiência no desenvolvimento full stack utilizando tecnologias como React, Vue.js e muito mais.
+Sou um desenvolvedor **Full Stack**, com ênfase em **TypeScript** e **JavaScript**, especializado em **NestJS** e **Node.js** para backend, além de experiência com **Next.js** e **React** no frontend. Trabalho atualmente na **FastSoft Brasil**, e sou formado em **Análise e Desenvolvimento de Sistemas**.
 
 ---
 
@@ -19,16 +19,23 @@ Sou formado em **Análise e Desenvolvimento de Sistemas** e atualmente trabalho 
 
 ## 🛠️ Tecnologias que utilizo
 
-<div style="display: inline_block"><br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" height="40" width="50" alt="NestJS" />
+### **Principais Tecnologias**
+<div style="display: inline_block">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" width="50" alt="TypeScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="50" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" height="40" width="50" alt="NestJS" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="50" alt="Node.js" />
+</div>
+
+### **Também trabalho com**
+<div style="display: inline_block">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" width="50" alt="Next.js" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="50" alt="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" width="50" alt="Vue.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" width="50" alt="MySQL" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" width="50" alt="PostgreSQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" width="50" alt="MySQL" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" width="50" alt="Docker" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="50" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" width="50" alt="Linux" />
 </div>
 
 ---
