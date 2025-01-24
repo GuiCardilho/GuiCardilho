@@ -1,0 +1,29 @@
+name: Generate GitHub Stats
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # Executa uma vez por dia à meia-noite UTC
+  workflow_dispatch: # Permite execução manual
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout do repositório
+        uses: actions/checkout@v3
+
+      - name: Gerar estatísticas do GitHub
+        run: |
+          curl -o dist/github-stats.svg "https://github-readme-stats.vercel.app/api?username=seu-usuario&theme=dark&show_icons=true&hide_border=false&count_private=true"
+          curl -o dist/top-languages.svg "https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&theme=dark&show_icons=true&hide_border=false&layout=compact"
+
+      - name: Fazer deploy das estatísticas geradas
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist
+          publish_branch: stats-output
+          commit_message: "Update GitHub stats [skip ci]"
