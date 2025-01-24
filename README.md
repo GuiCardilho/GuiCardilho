@@ -57,18 +57,18 @@ Procfile    	1      repos	██████░░░░░░░░░░░░
 ## 🛠️ Tecnologias que utilizo
 
 ### **Principais Tecnologias**
-<p align="start">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nestjs,nextjs,typescript&theme=dark" alt="NestJS, Next.js e TypeScript"/>
-  </a>
-</p>
+[![NestJS, Next.js e TypeScript](https://skillicons.dev/icons?i=nestjs,nextjs,typescript&theme=dark)](https://skillicons.dev)
 
-### **Também trabalho com**
-<p align="start">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=next,react,nodejs,javascript,postgres,mysql,docker,git,linux&theme=dark" alt="Tecnologias adicionais"/>
-  </a>
-</p>
+### **Tecnologias que também utilizo**
+
+#### **Back-End**
+[![Node.js, Postgres, Prisma, Redis, Jest, Express, MongoDB, Flask, PHP, Sequelize, Firebase, Nginx, Python](https://skillicons.dev/icons?i=nodejs,postgres,prisma,redis,jest,express,mongodb,flask,php,sequelize,firebase,nginx,py&theme=dark)](https://skillicons.dev)
+
+#### **Front-End**
+[![React, PHP, CSS, Tailwind, Bootstrap, HTML, Sass, Emotion, jQuery](https://skillicons.dev/icons?i=react,php,css,tailwind,bootstrap,html,sass,emotion,jquery&theme=dark)](https://skillicons.dev)
+
+#### **Outras Tecnologias**
+[![Docker, AWS, Azure, Cloudflare, Postman, Git, Linux, Arduino, Bash, Bitbucket, Cypress, Dev.to, Discord, DiscordJS, Figma, GitHub, GitHub Actions, Go, IntelliJ IDEA, Notion, PNPM, Regex, VSCode, Windows](https://skillicons.dev/icons?i=docker,aws,azure,cloudflare,postman,git,linux,arduino,bash,bitbucket,cypress,devto,discord,discordjs,figma,github,githubactions,go,idea,notion,pnpm,regex,vscode,windows&theme=dark)](https://skillicons.dev)
 
 ---
 
