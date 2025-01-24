@@ -66,7 +66,7 @@ Procfile    	1      repos	██████░░░░░░░░░░░░
 ### **Também trabalho com**
 <p align="start">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=javascript,react,nodejs,postgres,mysql,docker,git,linux&theme=dark" alt="Tecnologias adicionais"/>
+    <img src="https://skillicons.dev/icons?i=next,react,nodejs,javascriptpostgres,mysql,docker,git,linux&theme=dark" alt="Tecnologias adicionais"/>
   </a>
 </p>
 
