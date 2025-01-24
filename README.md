@@ -8,9 +8,9 @@ Sou um desenvolvedor **Full Stack**, com especialização em **NestJS**, **Next.
 
 ## 📊 Minhas Estatísticas
 
-| Linguagens Mais Usadas |
-|------------------------|
-| <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guicardilho&layout=compact&theme=dark" width="335"/> |
+| Estatísticas do GitHub | Linguagens Mais Usadas |
+|------------------------|------------------------|
+| <img src="https://github-readme-stats.vercel.app/api?username=guicardilho&show_icons=true&theme=dark" width="400"/> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guicardilho&layout=compact&theme=dark" width="335"/> |
 
 ---
 
@@ -87,7 +87,7 @@ Procfile    	1      repos	██████░░░░░░░░░░░░
 ## 🐍 Minhas Contribuições
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/guicardilho/guicardilho/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/guicardilho/guicardilho/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/guicardilho/guicardilho/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GuiCardilho/GuiCardilho/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GuiCardilho/GuiCardilho/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/GuiCardilho/GuiCardilho/output/github-snake.svg" />
 </picture>
