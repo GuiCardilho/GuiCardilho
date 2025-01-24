@@ -16,10 +16,11 @@ jobs:
       - name: Gerar a animação da cobrinha
         uses: Platane/snk@v3
         with:
-          github_user_name: guicardilho 
+          github_user_name: GuiCardilho 
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
+          is_partial: true  
 
       - name: Publicar a animação
         uses: crazy-max/ghaction-github-pages@v2.5.0
