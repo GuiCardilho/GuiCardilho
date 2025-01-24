@@ -1,0 +1,30 @@
+name: Update Readme
+
+on:
+  schedule:
+    - cron: "1 3 * * *"  
+  workflow_dispatch:
+
+jobs:
+  Update:
+    name: Update Stats
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Clonar o repositório
+        uses: actions/checkout@v3
+
+      - name: Gerar estatísticas no README
+        uses: mahyarmirrashed/github-readme-stats@main
+        with:
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}  
+          TIMEZONE: "America/Sao_Paulo"  
+          FEATURES: "DAY_STATS,WEEK_STATS,LANGUAGE_STATS"
+
+      - name: Commit changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git diff --quiet && git diff --staged --quiet || git commit -m "chore: update readme via actions"
+          git push
