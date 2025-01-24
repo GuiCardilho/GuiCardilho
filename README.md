@@ -2,7 +2,7 @@
 
 ### Desenvolvedor Full Stack com foco em Backend 🚀
 
-Sou um desenvolvedor **Full Stack**, com ênfase em **TypeScript** e **JavaScript**, especializado em **NestJS** e **Node.js** para backend, além de experiência com **Next.js** e **React** no frontend. Trabalho atualmente na **FastSoft Brasil**, e sou formado em **Análise e Desenvolvimento de Sistemas**.
+Sou um desenvolvedor **Full Stack**, com ênfase em **NestJS**, **Next.js** e **TypeScript**, especializado em construir soluções escaláveis e de alto desempenho. Atualmente, trabalho na **FastSoft Brasil**, e sou formado em **Análise e Desenvolvimento de Sistemas**.
 
 ---
 
@@ -21,16 +21,16 @@ Sou um desenvolvedor **Full Stack**, com ênfase em **TypeScript** e **JavaScrip
 
 ### **Principais Tecnologias**
 <div style="display: inline_block">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" height="40" width="50" alt="NestJS" />
+  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" height="40" width="50" alt="Next.js" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" width="50" alt="TypeScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="50" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" height="40" width="50" alt="NestJS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="50" alt="Node.js" />
 </div>
 
 ### **Também trabalho com**
 <div style="display: inline_block">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" width="50" alt="Next.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="50" alt="JavaScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="50" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="50" alt="Node.js" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" width="50" alt="PostgreSQL" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" width="50" alt="MySQL" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" width="50" alt="Docker" />
