@@ -10,7 +10,7 @@ Sou um desenvolvedor **Full Stack**, com especialização em **NestJS**, **Next.
 
 | Estatísticas do GitHub | Linguagens Mais Usadas |
 |------------------------|------------------------|
-| <img src="https://github-readme-stats-azure-kappa.vercel.app/api?username=guicardilho&locale=pt-BR&hide_rank=true&rank_icon=github&show_icons=true&include_all_commits=true&hide=stars,issues,contribs&show=prs_merged&api_domain=https://github-readme-stats-azure-kappa.vercel.app&theme=dark" width="600"/> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guicardilho&layout=compact&theme=dark&include_all_commits=true" width="335"/> |
+| <img src="https://github-readme-stats-azure-kappa.vercel.app/api?username=guicardilho&locale=pt-BR&hide_rank=true&rank_icon=github&show_icons=true&include_all_commits=true&hide=stars,issues,contribs&show=prs_merged&api_domain=https://github-readme-stats-azure-kappa.vercel.app&theme=dark" width="600"/> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guicardilho&layout=compact&theme=dark&include_all_commits=true&locale=pt-BR" width="335"/> |
 
 
 ---
