@@ -2,7 +2,7 @@ name: Update GitHub Stats
 
 on:
   schedule:
-    - cron: "0 0 * * *" 
+    - cron: "0 0 * * *"  # Executa diariamente à meia-noite UTC
   workflow_dispatch:
 
 jobs:
@@ -13,13 +13,17 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
 
+      - name: Criar diretório de saída
+        run: mkdir -p dist
+
       - name: Gerar estatísticas do GitHub
         run: |
           curl -o dist/github-stats.svg "https://github-readme-stats.vercel.app/api?username=guicardilho&show_icons=true&theme=dark&count_private=true&include_all_commits=true&hide_border=false&token=${{ secrets.GH_STATS_TOKEN }}"
-      
+
       - name: Commit and push changes
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git diff --quiet && git diff --staged --quiet || git commit -m "chore: update GitHub stats [skip ci]"
+          git add dist/github-stats.svg
+          git commit -m "chore: update GitHub stats [skip ci]" || echo "No changes to commit"
           git push
