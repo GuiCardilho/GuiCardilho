@@ -4,7 +4,7 @@ on:
   push:
   workflow_dispatch:
   schedule:
-    - cron: "0 0 * * *"  # Executa diariamente à meia-noite UTC
+    - cron: "0 0 * * *"
 
 jobs:
   generate-stats:
@@ -20,12 +20,12 @@ jobs:
 
       - name: Gerar estatísticas do GitHub
         run: |
-          curl -o dist/github-stats.svg "https://github-readme-stats.vercel.app/api?username=seu-usuario&theme=dark&show_icons=true&hide_border=false&count_private=true"
+          curl -o dist/github-stats.svg "https://github-readme-stats.vercel.app/api?username=GuiCardilho&theme=dark&show_icons=true&hide_border=false&count_private=true"
 
       - name: Deploy para o branch output
         uses: peaceiris/actions-gh-pages@v3
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          github_token: ${{ secrets.GH_TOKEN }}
           publish_dir: ./dist
           publish_branch: output
           commit_message: "Update GitHub Stats [skip ci]"
