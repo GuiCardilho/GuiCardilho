@@ -52,4 +52,8 @@ Sou um desenvolvedor **Full Stack**, com especialização em **NestJS**, **Next.
 
 ## 🐍 Minhas Contribuições
 
-![snake animation](https://github.com/guicardilho/guicardilho/blob/output/github-contribution-grid-snake2.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/guicardilho/guicardilho/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/guicardilho/guicardilho/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/guicardilho/guicardilho/output/github-snake.svg" />
+</picture>
