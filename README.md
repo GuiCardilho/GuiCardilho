@@ -8,9 +8,9 @@ Sou um desenvolvedor **Full Stack**, com especialização em **NestJS**, **Next.
 
 ## 📊 Minhas Estatísticas
 
-![Estatísticas do GitHub de Guilherme Cardilho](https://github-readme-stats.vercel.app/api?username=guicardilho&show_icons=true&theme=dark)
-
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=guicardilho&layout=compact&theme=dark)
+| Estatísticas do GitHub | Linguagens Mais Usadas |
+|------------------------|------------------------|
+| <img src="https://github-readme-stats.vercel.app/api?username=guicardilho&show_icons=true&theme=dark" width="400"/> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guicardilho&layout=compact&theme=dark" width="335"/> |
 
 ---
 
