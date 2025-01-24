@@ -1,6 +1,12 @@
-# Olá, eu sou Guilherme Henrique Cardilho!
+# 👋 Oi, eu sou Guilherme Cardilho!
 
-Sou um desenvolvedor Full Stack com foco em Backend utilizando NestJS. Sou formado em Análise e Desenvolvimento de Sistemas e atualmente trabalho na Fastsoft Brasil.
+### Desenvolvedor Full Stack, focado em Backend com NestJS 🚀
+
+Sou formado em **Análise e Desenvolvimento de Sistemas** e atualmente trabalho na **FastSoft Brasil**, contribuindo para soluções de alto desempenho com tecnologias modernas. Meu foco principal está no **desenvolvimento backend com NestJS**, mas também tenho experiência no desenvolvimento full stack utilizando tecnologias como React, Vue.js e muito mais.
+
+---
+
+## 📊 Estatísticas do GitHub
 
 <div align="center">
   <a href="https://github.com/GuiCardilho">
@@ -9,26 +15,35 @@ Sou um desenvolvedor Full Stack com foco em Backend utilizando NestJS. Sou forma
   </a>
 </div>
 
-## Tecnologias e Ferramentas
+---
+
+## 🛠️ Tecnologias que utilizo
 
 <div style="display: inline_block"><br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" height="40" width="50" alt="NestJS"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" width="50" alt="TypeScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="50" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="50" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" width="50" alt="Vue.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="50" alt="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="50" alt="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="50" alt="CSS3"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" width="50" alt="Sass"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" width="50" alt="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" height="40" width="50" alt="NestJS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" width="50" alt="TypeScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="50" alt="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="50" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" width="50" alt="Vue.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" width="50" alt="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" width="50" alt="PostgreSQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" width="50" alt="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="50" alt="Git" />
 </div>
 
-## Contato
+---
+
+## 📫 Entre em contato
 
 <div>
-  <a href="mailto:gui_cardilho@hotmail.com"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" alt="Email"></a>
-  <a href="https://www.linkedin.com/in/guilherme-cardilho" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" alt="LinkedIn"></a>
+  <a href="mailto:gui_cardilho@hotmail.com">
+    <img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://www.linkedin.com/in/guilherme-cardilho" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
 </div>
+
+---
 
 ![Snake animation](https://github.com/GuiCardilho/GuiCardilho/blob/output/github-contribution-grid-snake.svg)
