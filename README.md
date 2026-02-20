@@ -3,7 +3,7 @@
 <div align="center">
 
 <a href="https://www.guicardilho.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F4F4F5&center=true&vCenter=true&repeat=true&width=500&height=45&lines=Guilherme+Cardilho;Full+Stack+Engineer;Payment+Systems+%7C+Microservices" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F4F4F5&center=true&vCenter=true&repeat=false&width=620&height=45&lines=Guilherme+Cardilho+%7C+Full+Stack+Engineer+%7C+Payments" alt="Typing SVG" />
 </a>
 
 <br>
@@ -21,11 +21,12 @@
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" width="28" /> &nbsp;Sobre
 
 ```typescript
-const guilherme = {
+const guilherme: Developer = {
   role: "Full Stack Engineer",
   company: "Fast Solutions",
   location: "São Paulo, Brasil",
   education: "Análise e Desenvolvimento de Sistemas — Fatec Itapetininga",
+  languages: ["TypeScript"],
   focus: ["Payment Systems", "Microservices", "Financial Integrations"],
   impact: {
     transactions: "+R$264M processados",
