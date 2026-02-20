@@ -3,7 +3,7 @@
 <div align="center">
 
 <a href="https://www.guicardilho.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F4F4F5&center=true&vCenter=true&repeat=false&width=620&height=45&lines=Guilherme+Cardilho+%7C+Full+Stack+Engineer+%7C+Payments" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F4F4F5&center=true&vCenter=true&repeat=true&width=450&height=45&lines=Guilherme+Cardilho;Full+Stack+Engineer;Payments" alt="Typing SVG" />
 </a>
 
 <br>
