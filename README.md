@@ -50,21 +50,9 @@ Formado em **Análise e Desenvolvimento de Sistemas** pela Fatec Itapetininga.
 
 <div align="center">
 
-<img src="https://github-readme-stats-nine-gamma-40.vercel.app/api?username=guicardilho&locale=pt-BR&hide_rank=true&show_icons=true&include_all_commits=true&hide=stars,issues,contribs&show=prs_merged&api_domain=https://github-readme-stats-nine-gamma-40.vercel.app&theme=github_dark&bg_color=0a0a0b&border_color=27272a&title_color=f4f4f5&text_color=71717a&icon_color=3b82f6" height="170" />
-&nbsp;
 <img src="https://github-readme-stats-nine-gamma-40.vercel.app/api/top-langs/?username=guicardilho&layout=compact&theme=github_dark&include_all_commits=true&locale=pt-BR&bg_color=0a0a0b&border_color=27272a&title_color=f4f4f5&text_color=71717a&api_domain=https://github-readme-stats-nine-gamma-40.vercel.app" height="170" />
-<br>
+&nbsp;
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=guicardilho&theme=github-dark-blue&background=0a0a0b&border=27272a&stroke=27272a&ring=3b82f6&fire=3b82f6&currStreakLabel=f4f4f5&sideLabels=71717a&currStreakNum=f4f4f5&sideNums=71717a&dates=71717a" height="170" />
-
-</div>
-
----
-
-### 🏆 Conquistas
-
-<div align="center">
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=guicardilho&theme=nord&no-frame=true&no-bg=true&column=7&margin-w=6)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -75,20 +63,6 @@ Formado em **Análise e Desenvolvimento de Sistemas** pela Fatec Itapetininga.
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=guicardilho&theme=github-dark&bg_color=0a0a0b&color=71717a&line=3b82f6&point=f4f4f5&area=true&area_color=3b82f6&hide_border=false&custom_title=Atividade+de+Contribui%C3%A7%C3%B5es" width="95%" />
-
-</div>
-
----
-
-### 🧊 Gráfico 3D
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-green-animate.svg" />
-  <img alt="3D Contribution Graph" src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" />
-</picture>
 
 </div>
 
