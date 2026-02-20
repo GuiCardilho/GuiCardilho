@@ -1,28 +1,44 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=3b82f6&height=120&section=header"/>
+
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F4F4F5&center=true&vCenter=true&repeat=true&width=435&height=45&lines=Guilherme+Cardilho" alt="Typing SVG" />
+<a href="https://www.guicardilho.com">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F4F4F5&center=true&vCenter=true&repeat=true&width=500&height=45&lines=Guilherme+Cardilho;Full+Stack+Engineer;Payment+Systems+%7C+Microservices" alt="Typing SVG" />
+</a>
 
-**Full Stack Engineer** · Plataformas de Pagamento · Microsserviços
+<br>
 
 [![Portfolio](https://img.shields.io/badge/guicardilho.com-000?style=for-the-badge&logo=vercel&logoColor=white)](https://www.guicardilho.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/guilherme-cardilho)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gui_cardilho@hotmail.com)
-<br>
-<img src="https://komarev.com/ghpvc/?username=guicardilho&style=flat-square&color=27272a&label=views" alt="Profile views" />
+
+<img src="https://komarev.com/ghpvc/?username=guicardilho&style=for-the-badge&color=0a0a0b&label=VISITORS&labelColor=27272a" alt="Profile views" />
 
 </div>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=27272a&height=1&section=header"/>
 
-### 🧑‍💻 Sobre
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" width="28" /> &nbsp;Sobre
 
-Desenvolvedor full stack com experiência sólida no ecossistema **JavaScript/TypeScript**, atuando na construção de plataformas de pagamento escaláveis e confiáveis. Atualmente na **Fast Solutions**, trabalhando com gateway white-label que já processou **+R$264M em transações**, integrando **94+ gateways**, **132 adquirentes** e **30+ serviços BaaS**.
+```typescript
+const guilherme = {
+  role: "Full Stack Engineer",
+  company: "Fast Solutions",
+  location: "São Paulo, Brasil",
+  education: "Análise e Desenvolvimento de Sistemas — Fatec Itapetininga",
+  focus: ["Payment Systems", "Microservices", "Financial Integrations"],
+  impact: {
+    transactions: "+R$264M processados",
+    gateways: "94+ integrados",
+    acquirers: "132 conectados",
+    baas: "30+ serviços"
+  }
+};
+```
 
-Formado em **Análise e Desenvolvimento de Sistemas** pela Fatec Itapetininga.
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=27272a&height=1&section=header"/>
 
----
-
-### 🛠 Tecnologias
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="28" /> &nbsp;Tecnologias
 
 <div align="center">
 
@@ -44,9 +60,9 @@ Formado em **Análise e Desenvolvimento de Sistemas** pela Fatec Itapetininga.
 
 </div>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=27272a&height=1&section=header"/>
 
-### 📊 Estatísticas
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="28" /> &nbsp;Estatísticas
 
 <div align="center">
 
@@ -56,9 +72,7 @@ Formado em **Análise e Desenvolvimento de Sistemas** pela Fatec Itapetininga.
 
 </div>
 
----
-
-### 📈 Contribuições
+<br>
 
 <div align="center">
 
@@ -66,10 +80,18 @@ Formado em **Análise e Desenvolvimento de Sistemas** pela Fatec Itapetininga.
 
 </div>
 
----
+<br>
+
+<div align="center">
+
+> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Blue%20Circle.png" width="15" /> &nbsp; *"Any fool can write code that a computer can understand. Good programmers write code that humans can understand."* — Martin Fowler
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=27272a&height=1&section=header"/>
 
 <details>
-<summary><b>📋 Detalhes de atividade</b></summary>
+<summary><b>&nbsp;<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Clipboard.png" width="20" /> Detalhes de atividade</b></summary>
 <br>
 
 <!-- README-STATS:START -->
@@ -109,7 +131,7 @@ HTML        	1      repos	███████░░░░░░░░░░░
 
 </details>
 
----
+<br>
 
 <div align="center">
 
@@ -120,3 +142,5 @@ HTML        	1      repos	███████░░░░░░░░░░░
 </picture>
 
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=3b82f6&height=120&section=footer"/>
