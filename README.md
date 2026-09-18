@@ -100,22 +100,22 @@ const guilherme: Developer = {
 ```
 🕰️ I get my jam on during the night!
 
-🌞 Morning  	201    commits	██████░░░░░░░░░░░░░░░░░░░░░░░░	12.68%
-🌆 Daytime  	164    commits	█████░░░░░░░░░░░░░░░░░░░░░░░░░	10.35%
-🌃 Evening  	304    commits	█████████░░░░░░░░░░░░░░░░░░░░░	19.18%
-🌙 Night    	916    commits	██████████████████████████████	57.79%
+🌞 Morning  	203    commits	██████░░░░░░░░░░░░░░░░░░░░░░░░	12.62%
+🌆 Daytime  	164    commits	█████░░░░░░░░░░░░░░░░░░░░░░░░░	10.20%
+🌃 Evening  	304    commits	█████████░░░░░░░░░░░░░░░░░░░░░	18.91%
+🌙 Night    	937    commits	██████████████████████████████	58.27%
 ```
 
 ```
-📅 I'm most productive on Sundays!
+📅 I'm most productive on Saturdays!
 
-Monday      	270    commits	█████████████████████████████░	17.03%
-Tuesday     	200    commits	█████████████████████░░░░░░░░░	12.62%
-Wednesday   	161    commits	█████████████████░░░░░░░░░░░░░	10.16%
-Thursday    	233    commits	█████████████████████████░░░░░	14.70%
-Friday      	175    commits	██████████████████░░░░░░░░░░░░	11.04%
-Saturday    	267    commits	████████████████████████████░░	16.85%
-Sunday      	279    commits	██████████████████████████████	17.60%
+Monday      	270    commits	████████████████████████████░░	16.79%
+Tuesday     	200    commits	████████████████████░░░░░░░░░░	12.44%
+Wednesday   	161    commits	████████████████░░░░░░░░░░░░░░	10.01%
+Thursday    	233    commits	████████████████████████░░░░░░	14.49%
+Friday      	177    commits	██████████████████░░░░░░░░░░░░	11.01%
+Saturday    	288    commits	██████████████████████████████	17.91%
+Sunday      	279    commits	█████████████████████████████░	17.35%
 ```
 
 ```
