@@ -1,4 +1,4 @@
-<a href="https://www.guicardilho.com">
+<a href="https://guicardilho.com">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg" />
@@ -11,7 +11,7 @@
 Desenvolvedor Full Stack em São Paulo, com experiência em sistemas de pagamento, integrações, CRM e plataformas de atendimento.
 
 <p>
-  <a href="https://www.guicardilho.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/link-site-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="assets/link-site-light.svg" /><img src="assets/link-site-dark.svg" alt="guicardilho.com" height="40" /></picture></a>
+  <a href="https://guicardilho.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/link-site-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="assets/link-site-light.svg" /><img src="assets/link-site-dark.svg" alt="guicardilho.com" height="40" /></picture></a>
   <a href="https://linkedin.com/in/guilherme-cardilho"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/link-linkedin-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="assets/link-linkedin-light.svg" /><img src="assets/link-linkedin-dark.svg" alt="LinkedIn" height="40" /></picture></a>
   <a href="mailto:gui_cardilho@hotmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/link-email-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="assets/link-email-light.svg" /><img src="assets/link-email-dark.svg" alt="gui_cardilho@hotmail.com" height="40" /></picture></a>
 </p>
