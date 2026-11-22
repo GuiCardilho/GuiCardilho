@@ -1,147 +1,79 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=3b82f6&height=120&section=header"/>
-
-<div align="center">
-
 <a href="https://www.guicardilho.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F4F4F5&center=true&vCenter=true&repeat=true&width=450&height=45&lines=Guilherme+Cardilho;Full+Stack+Engineer;Payments" alt="Typing SVG" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg" />
+    <img src="assets/banner-dark.svg" alt="Guilherme Cardilho, Desenvolvedor Full Stack. Resolvendo problemas reais através de software." width="100%" />
+  </picture>
 </a>
 
-<br>
+<br />
 
-[![Portfolio](https://img.shields.io/badge/guicardilho.com-000?style=for-the-badge&logo=vercel&logoColor=white)](https://www.guicardilho.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/guilherme-cardilho)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gui_cardilho@hotmail.com)
+Desenvolvedor Full Stack em São Paulo, com experiência em sistemas de pagamento, integrações, CRM e plataformas de atendimento.
 
-<img src="https://komarev.com/ghpvc/?username=guicardilho&style=for-the-badge&color=0a0a0b&label=VISITORS&labelColor=27272a" alt="Profile views" />
+<p>
+  <a href="https://www.guicardilho.com">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="assets/link-site-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="assets/link-site-light.svg" />
+      <img src="assets/link-site-dark.svg" alt="guicardilho.com" height="40" />
+    </picture>
+  </a>
+  <a href="https://linkedin.com/in/guilherme-cardilho">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="assets/link-linkedin-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="assets/link-linkedin-light.svg" />
+      <img src="assets/link-linkedin-dark.svg" alt="LinkedIn" height="40" />
+    </picture>
+  </a>
+  <a href="mailto:gui_cardilho@hotmail.com">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="assets/link-email-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="assets/link-email-light.svg" />
+      <img src="assets/link-email-dark.svg" alt="gui_cardilho@hotmail.com" height="40" />
+    </picture>
+  </a>
+</p>
 
-</div>
+## Hoje
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=27272a&height=1&section=header"/>
+- **Noktaro · Founder**: desenvolvimento de software sob encomenda, incluindo design e programação.
+- **ClickCannabis**: telemedicina. Sistemas para a operação e o atendimento, como o CRM e o chat ao vivo.
+- **FastPay Brasil**: subadquirente. APIs e integrações das plataformas de pagamentos white-label e de faturamento global.
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" width="28" /> &nbsp;Sobre
+## Stack
 
-```typescript
-const guilherme: Developer = {
-  role: "Full Stack Engineer",
-  company: "Fast Solutions",
-  location: "São Paulo, Brasil",
-  education: "Análise e Desenvolvimento de Sistemas — Fatec Itapetininga",
-  languages: ["TypeScript"],
-  focus: ["Payment Systems", "Microservices", "Financial Integrations"],
-  impact: {
-    transactions: "+R$264M processados",
-    gateways: "94+ integrados",
-    acquirers: "132 conectados",
-    baas: "30+ serviços"
-  }
-};
-```
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=27272a&height=1&section=header"/>
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="28" /> &nbsp;Tecnologias
-
-<div align="center">
-
-**Stack Principal**
-<br>
-[![Main](https://skillicons.dev/icons?i=nestjs,nodejs,ts,react,nextjs,postgres,redis,docker&theme=dark)](https://skillicons.dev)
-
-**Backend & Banco de Dados**
-<br>
-[![Backend](https://skillicons.dev/icons?i=fastify,express,prisma,mongodb,rabbitmq,py,php&theme=dark)](https://skillicons.dev)
-
-**Frontend**
-<br>
-[![Frontend](https://skillicons.dev/icons?i=vue,tailwind,html,css,sass&theme=dark)](https://skillicons.dev)
-
-**DevOps & Ferramentas**
-<br>
-[![DevOps](https://skillicons.dev/icons?i=aws,azure,githubactions,linux,nginx,git,jest,sentry,figma,postman&theme=dark)](https://skillicons.dev)
-
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=27272a&height=1&section=header"/>
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="28" /> &nbsp;Estatísticas
-
-<div align="center">
-
-<img src="https://github-readme-stats-nine-gamma-40.vercel.app/api/top-langs/?username=guicardilho&layout=compact&theme=github_dark&include_all_commits=true&locale=pt-BR&bg_color=0a0a0b&border_color=27272a&title_color=f4f4f5&text_color=71717a&api_domain=https://github-readme-stats-nine-gamma-40.vercel.app" height="170" />
-&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=guicardilho&theme=github-dark-blue&background=0a0a0b&border=27272a&stroke=27272a&ring=3b82f6&fire=3b82f6&currStreakLabel=f4f4f5&sideLabels=71717a&currStreakNum=f4f4f5&sideNums=71717a&dates=71717a" height="170" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=guicardilho&theme=github-dark&bg_color=0a0a0b&color=71717a&line=3b82f6&point=f4f4f5&area=true&area_color=3b82f6&hide_border=false&custom_title=Atividade+de+Contribui%C3%A7%C3%B5es" width="95%" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Blue%20Circle.png" width="15" /> &nbsp; *"Any fool can write code that a computer can understand. Good programmers write code that humans can understand."* — Martin Fowler
-
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=27272a&height=1&section=header"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/stack-light.svg" />
+  <img src="assets/stack-dark.svg" alt="Stack principal: TypeScript, Node.js, NestJS, React, Next.js, PostgreSQL, Redis e Docker" width="100%" />
+</picture>
 
 <details>
-<summary><b>&nbsp;<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Clipboard.png" width="20" /> Detalhes de atividade</b></summary>
-<br>
+<summary>Outras tecnologias</summary>
+<br />
 
-<!-- README-STATS:START -->
-
-```
-🕰️ I get my jam on during the night!
-
-🌞 Morning  	335    commits	████████░░░░░░░░░░░░░░░░░░░░░░	13.62%
-🌆 Daytime  	349    commits	████████░░░░░░░░░░░░░░░░░░░░░░	14.19%
-🌃 Evening  	572    commits	██████████████░░░░░░░░░░░░░░░░	23.25%
-🌙 Night    	1204   commits	██████████████████████████████	48.94%
-```
-
-```
-📅 I'm most productive on Mondays!
-
-Monday      	469    commits	██████████████████████████████	19.07%
-Tuesday     	354    commits	██████████████████████░░░░░░░░	14.39%
-Wednesday   	297    commits	██████████████████░░░░░░░░░░░░	12.07%
-Thursday    	279    commits	█████████████████░░░░░░░░░░░░░	11.34%
-Friday      	234    commits	██████████████░░░░░░░░░░░░░░░░	9.51%
-Saturday    	386    commits	████████████████████████░░░░░░	15.69%
-Sunday      	441    commits	████████████████████████████░░	17.93%
-```
-
-```
-🧪 JavaScript for the win!
-
-JavaScript  	14     repos	██████████████████████████████	25.45%
-TypeScript  	10     repos	█████████████████████░░░░░░░░░	18.18%
-CSS         	9      repos	███████████████████░░░░░░░░░░░	16.36%
-Shell       	5      repos	██████████░░░░░░░░░░░░░░░░░░░░	9.09%
-Dockerfile  	4      repos	████████░░░░░░░░░░░░░░░░░░░░░░	7.27%
-```
-
-<!-- README-STATS:END -->
+- **Back-end**: Fastify, Express, Prisma, MongoDB, RabbitMQ, Python, PHP
+- **Front-end**: Vue, Tailwind CSS, Sass
+- **Infra e ferramentas**: AWS, Azure, GitHub Actions, Linux, Nginx, Jest, Sentry, Figma, Postman
 
 </details>
 
-<br>
+<details>
+<summary>English</summary>
+<br />
 
-<div align="center">
+Full Stack Developer based in São Paulo, experienced in payment systems, integrations, CRM and live chat platforms.
+
+- **Noktaro · Founder**: custom software development, including design and programming.
+- **ClickCannabis**: telemedicine. Systems for operations and customer service, such as the CRM and the live chat.
+- **FastPay Brasil**: payment sub-acquirer. APIs and integrations for the white-label payments and global billing platforms.
+
+</details>
+
+<br />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GuiCardilho/GuiCardilho/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GuiCardilho/GuiCardilho/output/github-snake.svg" />
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/GuiCardilho/GuiCardilho/output/github-snake-dark.svg" width="100%" />
+  <img alt="Contribuições no GitHub" src="https://raw.githubusercontent.com/GuiCardilho/GuiCardilho/output/github-snake-dark.svg" width="100%" />
 </picture>
-
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=3b82f6&height=120&section=footer"/>

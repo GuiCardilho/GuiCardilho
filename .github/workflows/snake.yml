@@ -18,8 +18,8 @@ jobs:
         with:
           github_user_name: guicardilho
           outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
+            dist/github-snake.svg?color_snake=#16161a&color_dots=#ebe9e3,#c9d3ff,#9db0ff,#6586ff,#2f5bff
+            dist/github-snake-dark.svg?color_snake=#f1f0ec&color_dots=#1c1c1f,#1f2a5e,#2c3f99,#4a66d9,#6586ff
             dist/github-snake.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
 
       - name: Publicar a animação
