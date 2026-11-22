@@ -24,11 +24,13 @@ Desenvolvedor Full Stack em São Paulo, com experiência em sistemas de pagament
 
 ## Stack
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="assets/stack-light.svg" />
-  <img src="assets/stack-dark.svg" alt="Stack principal: TypeScript, Node.js, NestJS, React, Next.js, PostgreSQL, Redis e Docker" width="100%" />
-</picture>
+<p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="assets/stack-light.svg" />
+    <img src="assets/stack-dark.svg" alt="Stack principal: TypeScript, Node.js, NestJS, React, Next.js, PostgreSQL, Redis e Docker" width="100%" />
+  </picture>
+</p>
 
 <details>
 <summary>Outras tecnologias</summary>
