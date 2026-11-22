@@ -22,6 +22,16 @@ Desenvolvedor Full Stack em São Paulo, com experiência em sistemas de pagament
 - **ClickCannabis**: telemedicina. Sistemas para a operação e o atendimento, como o CRM e o chat ao vivo.
 - **FastPay Brasil**: subadquirente. APIs e integrações das plataformas de pagamentos white-label e de faturamento global.
 
+## Processo
+
+<p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/projeto-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="assets/projeto-light.svg" />
+    <img src="assets/projeto-dark.svg" alt="Mapa conceitual de como um projeto anda: levantamento dos problemas, apresentação da ideia, escopo, fluxos, protótipo e planejamento, depois arquitetura e ciclos de desenvolver, testar, apresentar e ajustar, até a homologação, a entrega e a operação, de onde voltam novas demandas. O cliente valida em todas as etapas" width="100%" />
+  </picture>
+</p>
+
 ## Stack
 
 <p>
