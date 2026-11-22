@@ -32,6 +32,26 @@ Desenvolvedor Full Stack em São Paulo, com experiência em sistemas de pagament
   </picture>
 </p>
 
+<details>
+<summary>Etapas em texto</summary>
+<br />
+
+1. **Levantamento**: ouvir os problemas.
+2. **Apresentação** da ideia.
+3. **Escopo**: o que entra.
+4. **Fluxos**: jornada de quem usa.
+5. **Protótipo** navegável.
+6. **Planejamento**: etapas e prazos.
+7. **Arquitetura**: serviços e dados.
+8. **Ciclos**: desenvolver, testar, apresentar e ajustar, em entregas parciais.
+9. **Homologação**: aceite do cliente.
+10. **Entrega** em produção.
+11. **Operação**: suporte e novas demandas.
+
+O cliente valida em todas as etapas.
+
+</details>
+
 ## Stack
 
 <p>
@@ -43,9 +63,10 @@ Desenvolvedor Full Stack em São Paulo, com experiência em sistemas de pagament
 </p>
 
 <details>
-<summary>Outras tecnologias</summary>
+<summary>Todas as tecnologias</summary>
 <br />
 
+- **Principal**: TypeScript, Node.js, NestJS, React, Next.js, PostgreSQL, Redis, Docker
 - **Back-end**: Fastify, Express, Prisma, MongoDB, RabbitMQ, Python, PHP
 - **Front-end**: Vue, Tailwind CSS, Sass
 - **Infra e ferramentas**: AWS, Azure, GitHub Actions, Linux, Nginx, Jest, Sentry, Figma, Postman
