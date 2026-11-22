@@ -79,9 +79,34 @@ O cliente valida em todas as etapas.
 
 Full Stack Developer based in São Paulo, experienced in payment systems, integrations, CRM and live chat platforms.
 
+**Today**
+
 - **Noktaro · Founder**: custom software development, including design and programming.
 - **ClickCannabis**: telemedicine. Systems for operations and customer service, such as the CRM and the live chat.
 - **FastPay Brasil**: payment sub-acquirer. APIs and integrations for the white-label payments and global billing platforms.
+
+**Process**
+
+1. **Discovery**: listening to the problems.
+2. **Pitch**: presenting the idea.
+3. **Scope**: what goes in.
+4. **Flows**: the journey of the people who will use it.
+5. **Prototype**, clickable.
+6. **Planning**: stages and deadlines.
+7. **Architecture**: services and data.
+8. **Cycles**: build, test, present and adjust, in partial deliveries.
+9. **Staging**: client sign-off.
+10. **Delivery** to production.
+11. **Operation**: support and new requests.
+
+The client validates at every stage.
+
+**Stack**
+
+- **Main**: TypeScript, Node.js, NestJS, React, Next.js, PostgreSQL, Redis, Docker
+- **Back end**: Fastify, Express, Prisma, MongoDB, RabbitMQ, Python, PHP
+- **Front end**: Vue, Tailwind CSS, Sass
+- **Infrastructure and tools**: AWS, Azure, GitHub Actions, Linux, Nginx, Jest, Sentry, Figma, Postman
 
 </details>
 
